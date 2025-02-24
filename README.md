@@ -9,6 +9,9 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) para gerenciamento de 
 - 🗑 Exclusão de usuários
 
 ## 🛠️ Tecnologias Utilizadas
+
+O projeto utiliza **Vite** como ferramenta de build para otimizar o desempenho e a experiência de desenvolvimento. Saiba mais sobre o Vite em [vite.dev](https://vite.dev/).
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
