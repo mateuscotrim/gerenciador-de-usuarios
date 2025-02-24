@@ -1,4 +1,4 @@
-# ⚃ Sistema de Gestão de Usuários
+# ⚃ Sistema de Gerenciador de Usuários
 
 Este é um projeto de CRUD (Create, Read, Update, Delete) para gerenciamento de usuários, desenvolvido com **React + Vite, Tailwind CSS e Node.js**.
 
